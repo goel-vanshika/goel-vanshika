@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vanshika Goel, 2nd Year CSE Student.
-- 👀 I’m interested in learning coding and data science and developing projects.
-- 🌱 I’m currently learning Python, MERN and C.
-- 📫 How to reach me: goelvanshika1006@gmail.com
+- 👋 Hi, I’m Vanshika Goel, 3nd Year CSE Student.
+- 👀 I’m interested in Machine Learning, Blockchain and SQL.
+- 📫 Contact me: goelvanshika1006@gmail.com
 
