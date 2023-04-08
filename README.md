@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Vanshika Goel, 3nd Year CSE Student.
-- 👀 I’m interested in Machine Learning, Data Science and Blockchain.
-- 📫 Contact me: goelvanshika1006@gmail.com
-
+- Hi, I’m Vanshika Goel, 3nd Year CSE Student.
+- I’m interested in Machine Learning, Data Science and Blockchain.
+- Contact me: goelvanshika1006@gmail.com
+- Check out my website: https://vanshika-goel.vercel.app
+- Subscribe to my weekly newsletter on tech: https://vanshikagoel.substack.com/
