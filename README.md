@@ -2,7 +2,7 @@
 
 **Associate Technical Consultant (Data Engineer) @ Adobe** | B.Tech CSE, PES University (CGPA 8.24)
 
-Passionate about Data Engineering, Machine Learning, Data Science, and UI/UX Design. I blend technical depth with real-world impact — from building TB-scale data pipelines to publishing a weekly tech newsletter.
+Passionate about Data Engineering, Machine Learning, Data Science, and UI/UX Design. I blend technical depth with real-world impact: from building TB-scale data pipelines to publishing a weekly tech newsletter.
 
 📧 [goelvanshika1006@gmail.com](mailto:goelvanshika1006@gmail.com) · 🌐 [vanshika-goel.vercel.app](https://vanshika-goel.vercel.app) · 📰 [Substack Newsletter](https://vanshikagoel.substack.com/) · 💼 [LinkedIn](https://linkedin.com/in/vanshika-goel-a02604209)
 
